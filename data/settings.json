@@ -1,0 +1,1 @@
+{"token":"brak","client":"brak","tag":".","case":"true","separator":"\\s+","ownerId":"437356197025153025","modules":{"discord.js":["^11.2.0",true],"fstorm":["^0.1.3",true],"jimp":["^0.2.28",true],"valid-url":["^1.0.9",true],"youtube-search":["^1.1.4",true],"libsodium-wrappers":["",true],"opusscript":["",true],"ytdl-core":["",true]}}
